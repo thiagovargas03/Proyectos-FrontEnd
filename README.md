@@ -1,6 +1,6 @@
 ##  DESCRIPCIÓN 🤖
 
-En esta carpeta se encuentran mis proyectos de FrontEnd(CSS,HTML,JS).
+En este repositorio se encuentran mis proyectos de FrontEnd(CSS,HTML,JS).
 
 ##  AUTOR 🖊️
 
